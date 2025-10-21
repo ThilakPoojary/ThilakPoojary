@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/14275248395313245997_0" width="100"/>
+  <img src="" width="100"/>
   <h1>
     Hi there, I'm Thilak Poojary
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -45,7 +45,7 @@
   <strong>Languages & Frameworks:</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
-s <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
 </p>
 
@@ -61,7 +61,7 @@ s <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-origi
 
 <p align="left">
   <strong>Databases & Tools:</strong><br/>
-  <img src="httpss://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" title="MongoDB"/>
 </p>
 
@@ -90,5 +90,5 @@ s <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-origi
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME-HERE&layout=compact&theme=tokyonight" alt="Top Languages" width="320"/>
   
-m <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME-HERE&theme=tokyonight" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME-HERE&theme=tokyonight" alt="GitHub Streak" width="400"/>
 </p>
