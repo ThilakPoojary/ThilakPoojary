@@ -79,7 +79,8 @@
 | **5. Real Estate Price Prediction** | Predicting property prices using ML models on historical real estate data. | `Python` `Pandas` `Scikit-learn` `Matplotlib` |
 | **6. LapTrend - Flipkart Laptop Price Predictor** | Predicted laptop prices using historical Flipkart data and regression models. | `Python` `Pandas` `Scikit-learn` |
 | **7. Loan Estimator** | Built a predictive model to estimate loan approval chances based on applicant features. | `Python` `Pandas` `Scikit-learn` |
-| **8. Gene Expression Clustering for Bioinformatics Analysis** | Applied clustering algorithms on gene expression data to identify patterns and insights for bioinformatics research. | `Python` `NumPy` `Pandas` `Scikit-learn` `Seaborn` |
+| **8. Titanic EDA & Survival Prediction** | Performed exploratory data analysis on the Titanic dataset and built predictive models to estimate passenger survival probabilities. | `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` |
+| **9. Gene Expression Clustering for Bioinformatics Analysis** | Applied clustering algorithms on gene expression data to identify patterns and insights for bioinformatics research. | `Python` `NumPy` `Pandas` `Scikit-learn` `Seaborn` |
 
 ---
 
