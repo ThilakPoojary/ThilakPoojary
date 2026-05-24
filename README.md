@@ -77,8 +77,8 @@
 
 | Project | Description | Tech Stack |
 |:--------|:------------|:-----------|
-| [**SmartDataAI**](https://github.com/ThilakPoojary/SmartDataAI) | AI-powered data analysis tool — users upload CSV files and interact with data using natural language queries powered by LangChain + Groq LLM. | `Python` `Streamlit` `LangChain` `Groq LLM` `Pandas` |
 | [**RAG-Based AI Teaching Assistant**](https://github.com/ThilakPoojary/Retrieval-Augmented-Generation-RAG-Based-AI-Teaching-Assistant) | Context-aware learning companion using RAG — combines information retrieval with LLMs to answer questions from educational content. | `Python` `RAG` `LLMs` `OpenAI Whisper` `Embeddings` `Pandas` |
+| [**SmartDataAI**](https://github.com/ThilakPoojary/SmartDataAI) | AI-powered data analysis tool — users upload CSV files and interact with data using natural language queries powered by LangChain + Groq LLM. | `Python` `Streamlit` `LangChain` `Groq LLM` `Pandas` |
 | [**Dialogue Summarizer — T5-small**](https://github.com/ThilakPoojary/dialogue-summarizer) | Fine-tuned T5-small on SAMSum for conversation summarization. Streamlit UI with beam search controls, compression stats, and download support. | `Python` `HuggingFace Transformers` `T5-small` `PyTorch` `Streamlit` |
 | [**AI Stock Price Prediction App**](https://github.com/ThilakPoojary/AI-Stock-Price-Prediction-App) | Deep learning-based stock price prediction system built with PyTorch and deployed via Streamlit for real-time forecasting. | `Python` `PyTorch` `Streamlit` `Pandas` `NumPy` |
 
@@ -118,11 +118,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThilakPoojary&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Thilak's GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilakPoojary&layout=compact&theme=tokyonight" alt="Top Languages" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThilakPoojary&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=86400" alt="Thilak's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilakPoojary&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" width="41%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThilakPoojary&theme=tokyonight" alt="GitHub Streak" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=ThilakPoojary&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="60%"/>
 </p>
 
 ---
